@@ -1,0 +1,22 @@
+{
+  "name": "keplerjs.com",
+  "version": "0.0.1",
+  "description": "The website for Kepler node library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dworthen/keplerjs.com.git"
+  },
+  "keywords": [
+    "kepler"
+  ],
+  "author": "dworthen",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "~2.13.0"
+  }
+}
